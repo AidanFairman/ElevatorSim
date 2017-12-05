@@ -1,6 +1,6 @@
 # Welcome to Elevator Simulation
 
-[ElevatorScreenshot](/ElevatorScreen.PNG/)
+![ElevatorScreenshot](/ElevatorScreen.PNG/)
 
 ### Summary
 
