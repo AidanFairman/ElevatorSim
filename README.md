@@ -12,4 +12,4 @@ The simulation runs, generating a specified number of people, and then terminate
 
 ### Try it out
 
-There is a runnable executable in the [runnable folder](https://github.com/AidanFairman/ElevatorSim/Runnable/) where you can watch the animation. If you watch multiple times, the simulation will not be exactly the same. This is because it _does_ actually run the simulation every time. The results are not hard-coded in.
+There is a runnable executable in the [runnable folder](https://github.com/AidanFairman/ElevatorSim/tree/master/Runnable) where you can watch the animation. It does require the surrounding files to run, so please download the entire folder. If you watch multiple times, the simulation will not be exactly the same. This is because it _does_ actually run the simulation every time. The results are not hard-coded in.
